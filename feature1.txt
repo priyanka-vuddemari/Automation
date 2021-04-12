@@ -3,3 +3,4 @@ feature 1.1 added
 feature 1.2 added
 Updated all above features 
 new chnaged added in feature 3
+Updated feature 1 in master branch and added this change in current feature branch
